@@ -1,0 +1,22 @@
+{
+  "name": "learnrx",
+  "version": "1.0.0",
+  "description": "JavaScript functional programming exercises.",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^2.8.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisbobo/learnrx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisbobo/learnrx/issues"
+  },
+  "homepage": "https://github.com/chrisbobo/learnrx#readme"
+}
